@@ -1,2 +1,2 @@
 # qrGenerator
- Gerador de QRCode
+ Gerador de QRCode consumindo API.
